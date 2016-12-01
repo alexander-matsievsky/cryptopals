@@ -1,2 +1,2 @@
 # cryptopals
-[https://cryptopals.com/](The Cryptopals Crypto Challenges)
+[The Cryptopals Crypto Challenges](https://cryptopals.com/)
